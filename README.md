@@ -1,6 +1,6 @@
 # Breathe
 
-A minimal desktop app for guided breathing. Pick a pattern and follow the circle.
+A minimal desktop app for guided breathing.
 
 ![Screenshot](screenshot.png)
 
