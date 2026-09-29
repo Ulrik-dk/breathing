@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Breathe
+Comment=Guided breathing patterns
+Exec=sh -c 'exec python3 "$(dirname "$1")/breathing.py"' sh %k
+Icon=weather-windy
+Terminal=false
+Categories=Utility;
